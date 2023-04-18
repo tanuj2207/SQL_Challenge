@@ -5,7 +5,7 @@ This repository contains all of my SQL submissions for the [#8WeekSQLChallenge](
 # All solutions were coded using MySQL.
 
 ## Case Studies
-* [Case Study #1 - Danny's Diner](https://github.com/iweld/8-Week-SQL-Challenge/tree/main/Case%20Study%201%20-%20Danny's%20Diner "Danny's Diner")
-* [Case Study #2 - Pizza Runner](https://github.com/iweld/8-Week-SQL-Challenge/tree/main/Case%20Study%202%20-%20Pizza%20Runner "Pizza Runner")
-* [Case Study #4 - Data Bank](https://github.com/iweld/8-Week-SQL-Challenge/tree/main/Case%20Study%204%20-%20Data%20Bank "Data Bank")
+* [Case Study #1 - Danny's Diner](https://github.com/tanuj2207/SQL_Challenge/tree/main/Case_Study_1)
+* [Case Study #2 - Data Bank](https://github.com/tanuj2207/SQL_Challenge/tree/main/Case_Study_2)
+* [Case Study #3 - Pizza Runner](https://github.com/tanuj2207/SQL_Challenge/tree/main/Case_Study_3)
 
